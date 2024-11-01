@@ -1,0 +1,42 @@
+/* CSS Document */
+
+#leftcontainerBox {
+    clear: none;
+    /*float: left;*/
+    height: 60px;
+    margin: 4px;
+    padding-bottom: 2px;
+    padding-left: 6px;
+    width: 314px;
+}
+
+#leftcontainerBox .buttons {
+float:left;
+margin:0px;
+width:75px;
+height:60px;
+overflow:hidden;
+padding:0px;
+}
+
+.bottomcontainerBox {
+float:left;
+height:30px;
+width:100%;
+overflow:hidden;
+margin:0px;
+padding:0px;
+}
+
+
+.connect_widget_number_cloud {
+    background: none repeat scroll 0 0 #FFFFFF!important;
+    border: 1px solid #D3D3D3!important;
+    float: left!important;
+    height: 20px!important;
+    margin: 7px 6px 0px 0px!important;
+    position: relative!important;
+    text-align: center!important;
+}
+
+
